@@ -5,6 +5,7 @@ seaborn
 textblob
 nltk
 scikit-learn
-pandas-ta
 jupyter
 pytest
+ta
+yfinance
