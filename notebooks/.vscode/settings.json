@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Bitan\\news-sentiment-analysis-1\\venv\\Scripts\\python.exe",
+    "jupyter.kernels.filter": ["venv"],
+    "python.terminal.activateEnvironment": true
+}
