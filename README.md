@@ -1,19 +1,7 @@
 ﻿# News Sentiment Analysis – Nova Financial Solutions
 
 **Predicting stock price movements using financial news sentiment.**  
-This project builds an analytical pipeline to quantify news sentiment, compute technical indicators, and measure correlation with daily stock returns.
-
-## Project Structure
-news-sentiment-analysis/
-├── .github/workflows/ # CI/CD (GitHub Actions)
-├── data/raw/ # Raw datasets (news + stock prices)
-├── notebooks/ # Jupyter notebooks for each task
-│ └── 01_eda.ipynb # Task 1: Exploratory Data Analysis
-├── src/ # Reusable Python modules
-├── tests/ # Unit tests
-├── scripts/ # Utility scripts
-├── requirements.txt # Python dependencies
-└── README.md
+This project builds an analytical pipeline to quantify news sentiment, compute technical indicators, and measure correlation with daily stock returns
 
 
 ## Tasks Overview
